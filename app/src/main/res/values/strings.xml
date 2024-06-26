@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">AppCarrera</string>
+    <string name="runrace">CARRERA</string>
+    <string name="pausa">Pause</string>
+    <string name="inicio">Iniciar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="progress_percentage">%1$d%%</string>
+    <string name="player_one_name">Jugador N°1</string>
+    <string name="player_two_name">Jugador N°2</string>
+</resources>
